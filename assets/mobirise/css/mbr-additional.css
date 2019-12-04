@@ -712,3 +712,46 @@ section.lazy-placeholder:after {
 .cid-rJEmQDWNok {
   background-image: url("../../../assets/images/mbr-1920x1281.jpg");
 }
+.cid-rJEYWPLUcD {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #e4d295, #25aab2);
+}
+.cid-rJEYWPLUcD .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-rJEYWPLUcD .main .mbr-section-btn {
+  text-align: right;
+}
+.cid-rJEYWPLUcD .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rJEYYOW1pY {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #ff3366, #25aab2);
+}
+.cid-rJEYYOW1pY .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rJEZ0xjuMB {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #635a51, #cccccc);
+}
+.cid-rJEZ0xjuMB .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-rJEZ0xjuMB .main .mbr-section-btn {
+  text-align: right;
+}
+.cid-rJEZ0xjuMB .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rJEXvmAupF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
